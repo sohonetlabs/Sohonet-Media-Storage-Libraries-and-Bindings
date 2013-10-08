@@ -7,7 +7,7 @@ Libraries and bindings to allow applications to be integrated with Sohonet Media
 
 ###Python
 
- * Python SwiftClient - The offical Openstack Python Library. A CLI interface in also included. <http://pypi.python.org/pypi/python-swiftclient>
+ * Python SwiftClient - The offical Openstack project Python bindings. A CLI interface in included also. <http://pypi.python.org/pypi/python-swiftclient>
  * PyRAX - Official Rackspace Python bindings for CloudFiles that should work Sohonet Media Storage also.  <https://github.com/rackspace/pyrax>
  * Apache libcloud - a unified interface in Python for different clouds with OpenStack Swift support. <http://libcloud.apache.org> 
 
@@ -22,7 +22,7 @@ Libraries and bindings to allow applications to be integrated with Sohonet Media
 
 ### PHP
 
- * PHP-opencloud - Official Rackspace PHP bindings that hould work Sohonet Media Storage also. <http://php-opencloud.com>
+ * PHP-opencloud - Official Rackspace PHP bindings that should work Sohonet Media Storage also. <http://php-opencloud.com>
 
 ### .NET / C#
 
