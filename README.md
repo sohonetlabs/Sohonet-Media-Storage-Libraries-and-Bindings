@@ -1,5 +1,6 @@
-Sohonet-Media-Storage-Libraries-and-Bindings
-============================================
+![Sohonet logo](http://www.sohonet.com/wp-content/uploads/2013/09/sohonet2.png)
+
+##Sohonet Media Storage - Libraries and Bindings
 
 Libraries and bindings to allow applications to be integrated with Sohonet Media Storage. Sohonet Media Storage is based on Openstack Swift 
 
